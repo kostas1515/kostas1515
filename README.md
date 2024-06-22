@@ -1,8 +1,8 @@
  ### Hi, I’m Kostas 👋
- I recieved my PhD from King's College London in December 2023. My thesis is in long-tailed (class-imbalanced) image recognition, object detection, instance segmentation.
+ I recieved my PhD from King's College London in December 2023. My thesis was in long-tailed (class-imbalanced) image recognition, object detection, instance segmentation.
  Some information about me:
-- 👀 I’m interested in image classification, object detection and instance segmentation.
-- 💞️ I’m looking to collaborate on research projects regarding, long-tail learning, domain adaptation, self-supervised learning, multi-modalilty problems, large-scale recognition and detection.
+- 👀 I’m interested in computer vision, multi-modality learning and large language models (LLMs).
+- 💞️ I’m looking to collaborate on research projects regarding multi-modalilty problems, large-scale image recognition and LLMs.
 - 📄 Read more about my research on my website [kostas1515.github.io](https://kostas1515.github.io/)
 
 [![Gmail Badge](https://img.shields.io/badge/-konstantinos.alexandridis@kcl.ac.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:konstantinos.alexandridis@kcl.ac.uk)](mailto:konstantinos.alexandridis@kcl.ac.uk)
